@@ -8,6 +8,7 @@ threads="1 4 6 8 10 12"
 sizes="100 1000 10000"
 MAINCLASS=contention.benchmark.Test
 CP="${dir}/bin"
+
  
 writes="0 10 100"
 duration="2000"
