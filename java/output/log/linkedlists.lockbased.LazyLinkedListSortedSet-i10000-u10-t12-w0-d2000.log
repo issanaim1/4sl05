@@ -16,36 +16,36 @@ Benchmark parameters
   WarmUp:                  	0 s
   Iterations:              	1
   Benchmark:               	linkedlists.lockbased.LazyLinkedListSortedSet
-Thread #3 finished.
-Thread #7 finished.
-Thread #8 finished.
-Thread #2 finished.
-Thread #5 finished.
-Thread #10 finished.
-Thread #9 finished.
-Thread #4 finished.
-Thread #6 finished.
-Thread #1 finished.
-Thread #11 finished.
 Thread #0 finished.
+Thread #5 finished.
+Thread #8 finished.
+Thread #11 finished.
+Thread #4 finished.
+Thread #2 finished.
+Thread #1 finished.
+Thread #10 finished.
+Thread #7 finished.
+Thread #6 finished.
+Thread #9 finished.
+Thread #3 finished.
 -------------------------------------------------------------------------------
 Benchmark statistics
 -------------------------------------------------------------------------------
   Average traversal length: 	NaN
   Struct Modifications:     	0
-  Throughput (ops/s):       	78636.57957244656
-  Elapsed time (s):         	2.105
-  Operations:               	165530	( 100 %)
-    effective updates:     	8354	( 5.05 %)
-    |--add successful:     	4195	( 2.53 %)
-    |--remove succ.:       	4159	( 2.51 %)
+  Throughput (ops/s):       	135677.7392166584
+  Elapsed time (s):         	2.017
+  Operations:               	273662	( 100 %)
+    effective updates:     	13781	( 5.04 %)
+    |--add successful:     	6889	( 2.52 %)
+    |--remove succ.:       	6892	( 2.52 %)
     |--addAll succ.:       	0	( 0.00 %)
     |--removeAll succ.:    	0	( 0.00 %)
     size successful:       	0	( 0.00 %)
-    contains succ.:        	74975	( 45.29 %)
-    unsuccessful ops:      	82201	( 49.66 %)
-  Final size:              	10036
-  Expected size:           	10036
+    contains succ.:        	123019	( 44.95 %)
+    unsuccessful ops:      	136862	( 50.01 %)
+  Final size:              	9997
+  Expected size:           	9997
 -------------------------------------------------------------------------------
 TM statistics
 -------------------------------------------------------------------------------

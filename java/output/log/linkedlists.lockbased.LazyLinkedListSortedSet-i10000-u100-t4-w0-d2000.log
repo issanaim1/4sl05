@@ -16,28 +16,28 @@ Benchmark parameters
   WarmUp:                  	0 s
   Iterations:              	1
   Benchmark:               	linkedlists.lockbased.LazyLinkedListSortedSet
-Thread #1 finished.
 Thread #0 finished.
-Thread #2 finished.
+Thread #1 finished.
 Thread #3 finished.
+Thread #2 finished.
 -------------------------------------------------------------------------------
 Benchmark statistics
 -------------------------------------------------------------------------------
   Average traversal length: 	NaN
   Struct Modifications:     	0
-  Throughput (ops/s):       	17296.774193548386
-  Elapsed time (s):         	2.015
-  Operations:               	34853	( 100 %)
-    effective updates:     	17238	( 49.46 %)
-    |--add successful:     	8605	( 24.69 %)
-    |--remove succ.:       	8633	( 24.77 %)
+  Throughput (ops/s):       	41783.01886792453
+  Elapsed time (s):         	2.014
+  Operations:               	84151	( 100 %)
+    effective updates:     	42083	( 50.01 %)
+    |--add successful:     	21054	( 25.02 %)
+    |--remove succ.:       	21029	( 24.99 %)
     |--addAll succ.:       	0	( 0.00 %)
     |--removeAll succ.:    	0	( 0.00 %)
     size successful:       	0	( 0.00 %)
     contains succ.:        	0	( 0.00 %)
-    unsuccessful ops:      	17615	( 50.54 %)
-  Final size:              	9972
-  Expected size:           	9972
+    unsuccessful ops:      	42068	( 49.99 %)
+  Final size:              	10025
+  Expected size:           	10025
 -------------------------------------------------------------------------------
 TM statistics
 -------------------------------------------------------------------------------
