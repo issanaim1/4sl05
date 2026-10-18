@@ -22,19 +22,19 @@ Benchmark statistics
 -------------------------------------------------------------------------------
   Average traversal length: 	NaN
   Struct Modifications:     	0
-  Throughput (ops/s):       	4063949.2284718766
-  Elapsed time (s):         	2.009
-  Operations:               	8164474	( 100 %)
-    effective updates:     	4081447	( 49.99 %)
-    |--add successful:     	2040724	( 25.00 %)
-    |--remove succ.:       	2040723	( 25.00 %)
+  Throughput (ops/s):       	3952244.521912351
+  Elapsed time (s):         	2.008
+  Operations:               	7936107	( 100 %)
+    effective updates:     	3967510	( 49.99 %)
+    |--add successful:     	1983744	( 25.00 %)
+    |--remove succ.:       	1983766	( 25.00 %)
     |--addAll succ.:       	0	( 0.00 %)
     |--removeAll succ.:    	0	( 0.00 %)
     size successful:       	0	( 0.00 %)
     contains succ.:        	0	( 0.00 %)
-    unsuccessful ops:      	4083027	( 50.01 %)
-  Final size:              	101
-  Expected size:           	101
+    unsuccessful ops:      	3968597	( 50.01 %)
+  Final size:              	78
+  Expected size:           	78
 -------------------------------------------------------------------------------
 TM statistics
 -------------------------------------------------------------------------------
